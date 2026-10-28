@@ -1,4 +1,4 @@
-# Project Statistica: Hypothesis Testing & ARPU Analysis
+# Project Statistics: Hypothesis Testing & ARPU Analysis
 
 Welcome to the Statistics Project repository! This project focuses on applying statistical methods and data-driven analysis to evaluate business metrics, test assumptions, and assess monetization performance.
 
